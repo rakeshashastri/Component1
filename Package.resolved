@@ -6,8 +6,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/rakeshashastri/Core.git",
       "state" : {
-        "revision" : "c07ec0530ac001adc639796dc2d38b9f5119b5a9",
-        "version" : "0.1.0"
+        "revision" : "f580dd304ceab58a90b188ebf734c1126ab95019",
+        "version" : "0.1.1"
       }
     }
   ],
