@@ -1,8 +1,8 @@
 import Core
 
-class Component1 {
+public class Component1 {
 
-    func print() -> String {
+    public func print() -> String {
         return Core().print()
     }
 
